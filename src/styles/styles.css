@@ -3,9 +3,9 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #f4f4f4;
-  color: #3c484e;
+  color: white;
   font-family: "Open Sans", sans-serif;
+  background-image: url(https://i.ibb.co/4FBX0Bx/109968669-574367176584117-3275138985355100241-n-1.png);
 }
 
 .Header-main {
@@ -16,7 +16,7 @@ body {
 
 .Header a {
   text-decoration: none;
-  color: #15302c;
+  color: #f3f3f3;
 }
 
 .Main {
@@ -95,9 +95,13 @@ body {
   justify-content: space-between;
 }
 
+a {
+  color: white;
+}
+
 .Characters-item a {
   text-decoration: none;
-  color: #026c86;
+  color: #edf2f3;
 }
 
 @keyframes fade {
